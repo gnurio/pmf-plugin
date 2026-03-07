@@ -2,6 +2,13 @@
 
 All notable changes to this plugin are documented here.
 
+## [1.1.0] — 2026-03-07
+
+### Added
+
+- Claude Code support via `.claude/skills` and optional slash commands in `.claude/commands`
+- OpenAI Codex support via `.agents/skills` with the same skill set
+
 ## [1.0.0] — 2026-03-07
 
 ### Added

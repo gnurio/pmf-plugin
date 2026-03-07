@@ -1,7 +1,7 @@
 {
   "name": "pmf-skills",
   "displayName": "PMF Skills",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Stop guessing. Start validating. 4-skill agent workflow for product-market fit discovery — hypothesis building, parallel market research, risk synthesis, and status tracking across 6 PMF dimensions.",
   "author": {
     "name": "George Nurijanian",
