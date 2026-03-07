@@ -1,5 +1,7 @@
 # PMF Skills
 
+![PMF Skills](images/hero.png)
+
 **Stop guessing. Start validating.**
 
 Most product ideas die because teams build before they know what they're building *for*. PMF Skills gives your AI agent a structured workflow for product-market fit discovery — from a raw idea to an evidence-based hypothesis with ranked risks and a clear next step.
