@@ -125,6 +125,8 @@ The workflow runs inside Cursor's agent chat. All output lands in structured mar
 
 ## Installation
 
+### Cursor
+
 In Cursor, run:
 
 ```
@@ -132,6 +134,14 @@ In Cursor, run:
 ```
 
 Or search **PMF Skills** in the [Cursor Marketplace](https://cursor.com/marketplace).
+
+### Claude Code
+
+Clone this repo into your project. The skills live in `.claude/skills`, and optional slash commands live in `.claude/commands`.
+
+### OpenAI Codex
+
+Clone this repo into your project. Codex reads skills from `.agents/skills` at the repo root. Use `/skills` (or type `$`) to invoke one explicitly.
 
 ---
 
